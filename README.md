@@ -2,7 +2,7 @@
 
 Este é o repositório do meu portfólio pessoal, desenvolvido para apresentar minhas habilidades técnicas, projetos práticos e minha evolução no desenvolvimento de software.
 
-🚀 🚀 **[Clique aqui para visualizar o projeto online](https://vercel.app)**
+🚀 **[Clique aqui para visualizar o projeto online](https://portfolio-seven-pied-85.vercel.app/)**
 
 
 ---
@@ -35,4 +35,4 @@ Planejo adicionar as seguintes melhorias técnicas neste projeto em breve:
 Se você gostou do meu trabalho ou quer bater um papo sobre oportunidades, sinta-se à vontade para me mandar uma mensagem:
 
 - **LinkedIn:** [Carlos Ambrizi](https://www.linkedin.com/in/carlos-ambrizi-30ba13220/)
-- **E-mail:** ambrizitech.icloud.com
+- **E-mail:** (ambrizitech.icloud.com)
