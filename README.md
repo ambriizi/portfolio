@@ -2,7 +2,8 @@
 
 Este é o repositório do meu portfólio pessoal, desenvolvido para apresentar minhas habilidades técnicas, projetos práticos e minha evolução no desenvolvimento de software.
 
-🚀 **[Clique aqui para visualizar o projeto online](https://portfolio-seven-pied-85.vercel.app/)**
+🚀 🚀 **[Clique aqui para visualizar o projeto online](https://vercel.app)**
+
 
 ---
 
