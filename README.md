@@ -30,9 +30,7 @@ Planejo adicionar as seguintes melhorias técnicas neste projeto em breve:
 
 ---
 
-## 📬 Contato
-
-Se você gostou do meu trabalho ou quer bater um papo sobre oportunidades, sinta-se à vontade para me mandar uma mensagem:
-
+## 📫 Vamos nos conectar?
+Se você gostou do meu perfil ou quer trocar uma ideia sobre tecnologia, fique à vontade para me mandar uma mensagem!
 - **LinkedIn:** [Carlos Ambrizi](https://www.linkedin.com/in/carlos-ambrizi-30ba13220/)
 - **E-mail:** ambrizitech@icloud.com
