@@ -13,7 +13,6 @@ O projeto foi construído utilizando tecnologias web fundamentais (Vanilla Tech)
 
 - **HTML5:** Estruturação semântica e acessível da página.
 - **CSS3:** Estilização moderna, design responsivo e layout flexível.
-- **JavaScript (Vanilla):**
 
 ## 📱 Funcionalidades e Diferenciais
 
